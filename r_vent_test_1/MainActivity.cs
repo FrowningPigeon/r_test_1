@@ -11,6 +11,8 @@ namespace r_vent_test_1
         {
             base.OnCreate(bundle);
 
+			//this is a test
+
             // Set our view from the "main" layout resource
             // SetContentView (Resource.Layout.Main);
         }
